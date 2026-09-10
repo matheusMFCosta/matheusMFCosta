@@ -57,10 +57,11 @@ Built ......... Pricing engine: 1B cases, 100k negotiations/day
                 Microfrontend architecture
                 Identity & auth at VTEX
 
+- Public repos -----------------------------------------------------------------------
+element-inspector ................. Chrome ext. Picks React components for LLMs.
+Typescript-React-Vscode-snippets .. Snippets for TypeScript + React.
+idle-realms ....................... Idle RPG. Deterministic tick, closed economy.
+
 - Contact ----------------------------------------------------------------------------
 Email ......... mf.costa@live.com
-
-- Activity ---------------------------------------------------------------------------
-Contributions . 1,863 last year
-Repositories .. 25 public
 ```
