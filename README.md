@@ -1,22 +1,25 @@
 ```
-matheus@github
----------------------------------------------------
-OS ................ macOS, Linux, Windows
-Uptime ............ 11 years, 2 months on GitHub
-Kernel ............ Full-stack, data-layer heavy
-IDE ............... VS Code, Claude Code
+           :=++===-:.                matheus@github
+        :+#@@@@@@@@@%*=              -----------------------------------
+       +@@@@@@@@@@@@@@@*.            OS ............ macOS, Linux, Win
+..::::=@@@*+=======+*%@@%            Uptime ........ 11 yrs on GitHub
+...:::%@#=-:::---:::--#@@-       .   Kernel ........ Full-stack,
+   . -@%--=+++---=+++=-#@* .......                   data-layer heavy
+   . +@**##%#%####%%%%#*#@:.......   IDE ........... VS Code, Claude Code
+  ...-%*%%%%%@%=*@@%%%%##%.....:::
+......+=+#%%%%+:-*%%#++-+-.::::::.   Lang.Code ..... TypeScript, PL/pgSQL,
+......:===+*+*****++*+-=- ........                   JavaScript, Java
+::::::.-++**#+===-+#++++-.... .      Lang.Data ..... PostgreSQL, SQL
+:::::---+++=++=--=++==+: ........    Lang.Real ..... Portuguese, English
+::-+##*##**+-=+++==-=+*=:::.    ..
+=*#%@##@*=**+===-==++=#@%#%%#- ...   Focus ......... Booking systems,
+%%%#@@%@%++**#####*++=#@@##%%%-.                     media pipelines,
+@@@@%@@@@#+++****+===+*@@%%%%%%*=:                   a cozy farming game
+@@@@@@@@@@#*++**++++++*@@@%%%@@@@%
+@@@@@@@@@@@#******+++*%@@@%@@@@@@@   - Contact -------------------------
+@@@@@@@@@@@%%*++++==+#@@@@@@@@@@@@   Email ......... mf.costa@live.com
 
-Languages.Code .... TypeScript, PL/pgSQL, JavaScript, Java
-Languages.Data .... PostgreSQL, SQL
-Languages.Real .... Portuguese, English
-
-Focus ............. Booking systems, media pipelines,
-                    a cozy farming game in Godot
-
-- Contact -----------------------------------------
-Email ............. mf.costa@live.com
-
-- Activity ----------------------------------------
-Contributions ..... 1,863 in the last year
-Repositories ...... 25 public
+                                     - Activity ------------------------
+                                     Contributions . 1,863 last year
+                                     Repositories .. 25 public
 ```
